@@ -1,0 +1,14 @@
+1. What function is used to read from a file into a Python list data structure?
+Ans: readlines()
+
+2. What data structure does not allow duplicate values?
+Ans: Set
+
+3. How is a definition stored into a dictionary, where 'word' is the key?
+Ans: word_dict[word] = definition 
+
+4. How are the keys obtained as a List from a dictionary word_dict?
+Ans: word_list = list(word_dict)
+
+5. What python data structure allows for the return of multiple items from a function?
+Ans: Tuple
